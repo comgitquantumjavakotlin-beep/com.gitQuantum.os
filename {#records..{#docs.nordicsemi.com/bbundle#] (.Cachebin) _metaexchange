@@ -1,11 +1,35 @@
-<select>
-<option>
+<body ng-app="https://docs.nordicsemi.com/bundle#" myCtrl="{{x.$scope.{[[#in.records][#ex.main]]}}}">
+
+<table ng-directive="https://docs.nordicsemi.com/bundle" id="appml">
+<?php foreach ('$filter_['Name']$item_list: $item as $id =>$filter-$item') {
+<tr ng-repeat="{{x.$scope.{[[in.records][ex.main]]}}}" span="row">
+echo = '<td><select single><option>{{x.include: 'Key Setting':"Value Setting"}}</option></select></td>'; }.--grid-auto-any
+/php?>
+</table>
+
+<script>
+[
+   {
+       var app = #var angular.module("#", []) {
+       myCtrl = for app.control("$scope.in.#"=, function return("$scope"));
+           $scope.{[[#in.records][#ex.main]]}: [
            }} {include ':nRF91 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf91-series&labelkey=nrf9131&labelkey=nrf9151&labelkey=nrf9160&labelkey=thingy91&labelkey=thingy91x"} {{
               {include ':nRF70 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf70-series&labelkey=nrf7002&labelkey=nrf7001&labelkey=nrf7000"}
            }} {include ':nRF54 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf54-series&labelkey=nrf54h20&labelkey=nrf54lm20a&labelkey=nrf54l15&labelkey=nrf54l10&labelkey=nrf54l05"} {{
               {include ':nRF53 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf53-series&labelkey=nrf5340&labelkey=thingy53"}
-           }} {include 'nRF52 Series':""} {{
-              {include 'nRF51 Series':""}
-           }} {include 'nRF50 Series':""} {{
-</option>
-</select>
+           }} {include ':nRF52 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf52-series&labelkey=nrf52840&labelkey=nrf52833&labelkey=nrf52832&labelkey=nrf52820&labelkey=nrf52811&labelkey=nrf52810&labelkey=nrf52805"} {{
+              {include ':nRF51 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf51-series&labelkey=nrf51824&labelkey=nrf51822&labelkey=nrf51802&labelkey=nrf51422"}
+           }} {include ':FEM':"https://docs.nordicsemi.com/bundle?labelkey=fem&labelkey=nrf21540"} {{
+              {include ':PMIC':"https://docs.nordicsemi.com/bundle?labelkey=pmic&labelkey=npm1100&labelkey=npm1300&labelkey=npm1304&labelkey=npm2100&labelkey=npm6001"}
+           }} {include ':nRF9 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf9-series&labelkey=nrf9e5&labelkey=nrf905"} {{
+              {include ':nRF800 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf8000-series&labelkey=nrf8001"}
+           }} {include ':nRF24 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf24-series&labelkey=nrf24le1&labelkey=nrf24le1-otp&labelkey=nrf24lu1%2B&labelkey=nrf24lu1%2B-otp&labelkey=nrf24l01%2B&labelkey=nrf24ap2"} {{
+
+           }}
+           ]
+       }
+   }
+].
+</script>
+
+</body>
