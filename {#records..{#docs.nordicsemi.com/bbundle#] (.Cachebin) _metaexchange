@@ -1,15 +1,5 @@
-<table id="appml">
-<?php ;endif foreach ('$filter_['Name']$item_list $item as $id =>$filter-$item') {
-<tr ng-repeat="" span="row">
-echo = '<td><select single><option>{{x.app}}</option></select></td>'; }.--grid-auto-any
-;beginif
-/php?>
-</table>
-
-<script>
-<style:$strval==*[$string] [_-- CODE("sh $appml-Script($appml-request:{{[['$(scope)'],['$(http)'],]:}},ready function(api($SetUserData(Call()-,Fn()-,Bind()-,)onload Function(run:{{[[index()][][]]}}).text()"";";""") -- {{POSTGRES=# '\l}} {
-   } {
-       {
+<select>
+<option>
            }} {include ':nRF91 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf91-series&labelkey=nrf9131&labelkey=nrf9151&labelkey=nrf9160&labelkey=thingy91&labelkey=thingy91x"} {{
               {include ':nRF70 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf70-series&labelkey=nrf7002&labelkey=nrf7001&labelkey=nrf7000"}
            }} {include ':nRF54 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf54-series&labelkey=nrf54h20&labelkey=nrf54lm20a&labelkey=nrf54l15&labelkey=nrf54l10&labelkey=nrf54l05"} {{
@@ -17,11 +7,5 @@ echo = '<td><select single><option>{{x.app}}</option></select></td>'; }.--grid-a
            }} {include 'nRF52 Series':""} {{
               {include 'nRF51 Series':""}
            }} {include 'nRF50 Series':""} {{
-
-           }}
-       }
-   } {
-} {{,);,
-"]\:]\install-js-scrollspy$/"?.>
-</script>
-</
+</option>
+</select>
