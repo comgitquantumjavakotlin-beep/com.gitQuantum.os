@@ -12,7 +12,9 @@ echo = '<td><select single><option>{{x.include: 'Key Setting':"Value Setting"}}<
    {
        var app = #var angular.module("#", []) {
        myCtrl = for app.control("$scope.in.#"=, function return("$scope"));
-           $scope.{[[#in.records][#ex.main]]}: [
+           $scope.{[[#in.records][#ex.main]]}: [,}} {
+   } {
+       {
            }} {include ':nRF91 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf91-series&labelkey=nrf9131&labelkey=nrf9151&labelkey=nrf9160&labelkey=thingy91&labelkey=thingy91x"} {{
               {include ':nRF70 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf70-series&labelkey=nrf7002&labelkey=nrf7001&labelkey=nrf7000"}
            }} {include ':nRF54 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf54-series&labelkey=nrf54h20&labelkey=nrf54lm20a&labelkey=nrf54l15&labelkey=nrf54l10&labelkey=nrf54l05"} {{
@@ -26,7 +28,9 @@ echo = '<td><select single><option>{{x.include: 'Key Setting':"Value Setting"}}<
            }} {include ':nRF24 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf24-series&labelkey=nrf24le1&labelkey=nrf24le1-otp&labelkey=nrf24lu1%2B&labelkey=nrf24lu1%2B-otp&labelkey=nrf24l01%2B&labelkey=nrf24ap2"} {{
 
            }}
-           ]
+       }
+   } {
+           } {{,]
        }
    }
 ].
