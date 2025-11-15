@@ -5,7 +5,7 @@
            }} {include ':nRF91 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf91-series&labelkey=nrf9131&labelkey=nrf9151&labelkey=nrf9160&labelkey=thingy91&labelkey=thingy91x"} {{
               {include ':nRF70 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf70-series&labelkey=nrf7002&labelkey=nrf7001&labelkey=nrf7000"}
            }} {include ':nRF54 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf54-series&labelkey=nrf54h20&labelkey=nrf54lm20a&labelkey=nrf54l15&labelkey=nrf54l10&labelkey=nrf54l05"} {{
-              {include ':nRF53 Series':""}
+              {include ':nRF53 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf53-series&labelkey=nrf5340&labelkey=thingy53"}
            }} {include 'nRF52 Series':""} {{
               {include 'nRF51 Series':""}
            }} {include 'nRF50 Series':""} {{
