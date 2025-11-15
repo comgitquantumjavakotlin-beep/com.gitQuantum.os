@@ -1,4 +1,12 @@
-<%%+
+<table id="appml">
+<?php ;endif foreach ('$filter_['Name']$item_list $item as $id =>$filter-$item') {
+<tr ng-repeat="" span="row">
+echo = '<td><select single><option>{{}}</option></select></td>'; }.--grid-auto-any
+;beginif
+/php?>
+</table>
+
+<script>
 <? $strval==*[$string] [_-- CODE("sh $appml-Script($appml-request:{{[['$(scope)'],['$(http)'],]:}},ready function(api($SetUserData(Call()-,Fn()-,Bind()-,)onload Function(run:{{[[index()][][]]}}).text()"";";""") -- {{POSTGRES=# '\l}} {
    } {
        {
@@ -15,4 +23,5 @@
    } {
 } {{,);,
 "]\:]\install-js-scrollspy$/"?.>
-<%%+
+</script>
+</
