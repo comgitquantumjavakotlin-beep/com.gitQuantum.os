@@ -7,7 +7,7 @@ echo = '<td><select single><option>{{}}</option></select></td>'; }.--grid-auto-a
 </table>
 
 <script>
-<? $strval==*[$string] [_-- CODE("sh $appml-Script($appml-request:{{[['$(scope)'],['$(http)'],]:}},ready function(api($SetUserData(Call()-,Fn()-,Bind()-,)onload Function(run:{{[[index()][][]]}}).text()"";";""") -- {{POSTGRES=# '\l}} {
+<style:$strval==*[$string] [_-- CODE("sh $appml-Script($appml-request:{{[['$(scope)'],['$(http)'],]:}},ready function(api($SetUserData(Call()-,Fn()-,Bind()-,)onload Function(run:{{[[index()][][]]}}).text()"";";""") -- {{POSTGRES=# '\l}} {
    } {
        {
            }} {include ':nRF91 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf91-series&labelkey=nrf9131&labelkey=nrf9151&labelkey=nrf9160&labelkey=thingy91&labelkey=thingy91x"} {{
