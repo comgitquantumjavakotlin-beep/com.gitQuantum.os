@@ -8,8 +8,8 @@ echo = '<td><select single><option="include": value="">{{x.include: 'Key Setting
 </table>
 
 <script>
-[
-   {
+('Do while': [
+   inter{
        var app = #var angular.module("https://docs.nordicsemi.com/bundle#", []) {
        myCtrl = for app.control("$scope.in.https://docs.nordicsemi.com/bundle#"=, function return("$scope"));
            $scope.{[[#in.records][#ex.main]]}: [,}} {
@@ -33,7 +33,9 @@ echo = '<td><select single><option="include": value="">{{x.include: 'Key Setting
            } {{,]
        }
    }
-].
+].// fun.Holdlog('') {_completed:[DEFAULT:Default@Default]: True;}
+
+);,
 </script>
 
 </body>
