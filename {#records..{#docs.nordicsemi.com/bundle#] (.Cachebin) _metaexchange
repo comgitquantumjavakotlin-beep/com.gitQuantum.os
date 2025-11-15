@@ -3,7 +3,7 @@
 <table ng-directive="https://docs.nordicsemi.com/bundle" id="appml">
 <?php foreach ('$filter_['Name']$item_list: $item as $id =>$filter-$item') {
 <tr ng-repeat="{{x.$scope.{[[in.records][ex.main]]}}}" span="row">
-echo = '<td><select single><option="include": value="">{{x.include: 'Key Setting':"Value Setting"}}</option></select></td>'; }.--grid-auto-any
+echo = '<td><select single><option="include": value=""><span class="list"><{{x.include: 'Key Setting':"Value Setting"}}</span></option></select></td>'; }.--grid-auto-any
 /php?>
 </table>
 
