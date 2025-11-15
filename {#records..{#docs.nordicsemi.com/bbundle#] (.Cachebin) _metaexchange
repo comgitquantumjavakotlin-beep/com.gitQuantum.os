@@ -1,7 +1,7 @@
 <table id="appml">
 <?php ;endif foreach ('$filter_['Name']$item_list $item as $id =>$filter-$item') {
 <tr ng-repeat="" span="row">
-echo = '<td><select single><option>{{}}</option></select></td>'; }.--grid-auto-any
+echo = '<td><select single><option>{{x.app}}</option></select></td>'; }.--grid-auto-any
 ;beginif
 /php?>
 </table>
