@@ -10,8 +10,8 @@ echo = '<td><select single><option="include": value="">{{x.include: 'Key Setting
 <script>
 [
    {
-       var app = #var angular.module("#", []) {
-       myCtrl = for app.control("$scope.in.#"=, function return("$scope"));
+       var app = #var angular.module("https://docs.nordicsemi.com/bundle#", []) {
+       myCtrl = for app.control("$scope.in.https://docs.nordicsemi.com/bundle#"=, function return("$scope"));
            $scope.{[[#in.records][#ex.main]]}: [,}} {
    } {
        {
