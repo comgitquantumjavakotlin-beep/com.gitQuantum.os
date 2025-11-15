@@ -12,7 +12,8 @@ echo = '<td><select single><option="include": value=""><span class="list"><{{x.i
    inter{
        var app = #var angular.module("https://docs.nordicsemi.com/bundle#", []) {
        myCtrl = for app.control("$scope.in.https://docs.nordicsemi.com/bundle#"=, function return("$scope"));
-           $scope.{[[#in.records][#ex.main]]}: [,}} {
+           $scope.{[[#in.records][#ex.main]]}:[ {include: 'Key Setting':"Value Setting"}
+$(,}} {
    } {
        {
            }} {include ':nRF91 Series':"https://docs.nordicsemi.com/bundle?labelkey=nrf91-series&labelkey=nrf9131&labelkey=nrf9151&labelkey=nrf9160&labelkey=thingy91&labelkey=thingy91x"} {{
